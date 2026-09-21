@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos Excel com dados
+*.xlsx
+*.xls
+
+# Variáveis de ambiente
+.env
+
+# Configurações do VS Code
+.vscode/
